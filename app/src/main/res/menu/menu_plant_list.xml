@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/linear_layout"
+        app:showAsAction="never"
+        android:title="线性布局"/>
+
+    <item android:id="@+id/grid_layout"
+        app:showAsAction="never"
+        android:title="网格布局"/>
+
+    <item android:id="@+id/addPlant"
+        app:showAsAction="never"
+        android:title="添加植物"/>
+
+    <item android:id="@+id/deletePlant"
+        app:showAsAction="never"
+        android:title="清空植物"/>
+
+</menu>
